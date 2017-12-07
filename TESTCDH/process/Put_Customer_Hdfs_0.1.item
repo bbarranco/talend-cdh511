@@ -104,8 +104,9 @@
     <routinesParameter id="_wbY8kNsoEeeHest-_aekkw" name="TalendDate"/>
     <routinesParameter id="_wbaxwNsoEeeHest-_aekkw" name="TalendString"/>
     <routinesParameter id="_wbcm8NsoEeeHest-_aekkw" name="TalendStringUtil"/>
+    <routinesParameter id="_qESLYNs6Eee30Oy4XM2QwA" name="MDM"/>
   </parameters>
-  <node componentName="tHDFSConnection" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="128" posY="64">
+  <node componentName="tHDFSConnection" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="96" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tHDFSConnection_1" show="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_i8HMoNsrEeeHest-_aekkw" show="false"/>

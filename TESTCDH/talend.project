@@ -34,6 +34,7 @@
       <relatedItems xmi:id="_vw7lN9s6Eee30Oy4XM2QwA" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vw7lONs6Eee30Oy4XM2QwA" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vw7lOds6Eee30Oy4XM2QwA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_9VCw8NtnEee8e7cyoLyucQ" id="MDM" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_CV7ZQNtaEeeHest-_aekkw">
       <baseItem xmi:id="_CV7ZQdtaEeeHest-_aekkw" id="_x1GrENs0EeeHest-_aekkw" version="0.1" type="job"/>
