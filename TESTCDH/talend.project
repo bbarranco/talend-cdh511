@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_wU4E4dsoEeeHest-_aekkw" label="testcdh" description="" language="java" technicalLabel="TESTCDH" creationDate="2017-12-07T09:24:16.966+0100" author="_wU4E4tsoEeeHest-_aekkw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/talend-cdh511.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_wU4E4dsoEeeHest-_aekkw" label="testcdh" description="" language="java" technicalLabel="TESTCDH" creationDate="2017-12-07T08:24:16.966+0000" author="_wU4E4tsoEeeHest-_aekkw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/talend-cdh511.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_wYFJ4NsoEeeHest-_aekkw" label="development" code="DEV"/>
     <technicalStatus xmi:id="_wYFJ4dsoEeeHest-_aekkw" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_wYFJ4tsoEeeHest-_aekkw" label="production" code="PROD"/>
@@ -208,7 +208,6 @@
     <migrationTask xmi:id="_wjQfmtsoEeeHest-_aekkw" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wjQfm9soEeeHest-_aekkw" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wjQfnNsoEeeHest-_aekkw" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_wjQfndsoEeeHest-_aekkw" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wjQfntsoEeeHest-_aekkw" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wjQfn9soEeeHest-_aekkw" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wjQfoNsoEeeHest-_aekkw" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -434,6 +433,10 @@
     <migrationTask xmi:id="_wjRHC9soEeeHest-_aekkw" id="org.talend.repository.model.migration.AddFailOnErrorOnTFileCopyTDI38441" breaks="6.3.1" version="6.4.0" status="noimpact"/>
     <migrationTask xmi:id="_wjRHDNsoEeeHest-_aekkw" id="org.talend.repository.model.migration.SetSparkDataframeAlphabeticalSortOrder" breaks="6.1.0" version="6.1.0" status="noimpact"/>
     <migrationTask xmi:id="_wjRHDdsoEeeHest-_aekkw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_qB-eQNs6Eee30Oy4XM2QwA" id="org.talend.mdm.repository.core.migrate.UpdateViewObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_qB-eQds6Eee30Oy4XM2QwA" id="org.talend.mdm.repository.core.migrate.UpdateProcessObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_qB-eQts6Eee30Oy4XM2QwA" id="org.talend.mdm.repository.core.migrate.RemoveRefNameMT" breaks="6.0.0" version="6.0.0" status="noimpact"/>
+    <migrationTask xmi:id="_qB-eQ9s6Eee30Oy4XM2QwA" id="org.talend.mdm.repository.core.migrate.UpdateOperatorMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_wU4E4tsoEeeHest-_aekkw" login="ben@company.com" firstName="ben" lastName="bar" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_wYG_ENsoEeeHest-_aekkw" login="bbarranco@talend.com" firstName="Benoit" lastName="Barranco" type="DI" additionnalData="{}"/>
