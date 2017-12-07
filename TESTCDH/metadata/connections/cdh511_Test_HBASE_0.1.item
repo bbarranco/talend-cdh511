@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_3DfpcNteEeeonOkq3WcGMw" dataPackage="_3DfpjtteEeeonOkq3WcGMw" DatabaseType="HBase" Port="2181" Username="&quot;hdfs&quot;" ServerName="ip-172-31-21-39.eu-central-1.compute.internal" SID="HBase" DbmsId="mysql_id" ProductId="HBASE">
+    <parameters xmi:id="_3DfpcdteEeeonOkq3WcGMw" key="CONN_PARA_KEY_DB_PORT" value="2181"/>
+    <parameters xmi:id="_3DfpctteEeeonOkq3WcGMw" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+    <parameters xmi:id="_3Dfpc9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="ip-172-31-21-39.eu-central-1.compute.internal:8030"/>
+    <parameters xmi:id="_3DfpdNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+    <parameters xmi:id="_3DfpddteEeeonOkq3WcGMw" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://ip-172-31-21-39.eu-central-1.compute.internal:8020"/>
+    <parameters xmi:id="_3DfpdtteEeeonOkq3WcGMw" key="CONN_PARA_KEY_USERNAME" value="&quot;hdfs&quot;"/>
+    <parameters xmi:id="_3Dfpd9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_pAh6cNtdEeeonOkq3WcGMw"/>
+    <parameters xmi:id="_3DfpeNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="mapred/_HOST@EXAMPLE.COM"/>
+    <parameters xmi:id="_3DfpedteEeeonOkq3WcGMw" key="CONN_PARA_KEY_HBASE_VERSION" value="Cloudera_CDH5_10"/>
+    <parameters xmi:id="_3DfpetteEeeonOkq3WcGMw" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="ip-172-31-21-39.eu-central-1.compute.internal:8032"/>
+    <parameters xmi:id="_3Dfpe9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="ip-172-31-21-39.eu-central-1.compute.internal:10020"/>
+    <parameters xmi:id="_3DfpfNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_HIVE_VERSION" value="Cloudera_CDH5_10"/>
+    <parameters xmi:id="_3DfpfdteEeeonOkq3WcGMw" key="CONN_PARA_KEY_HBASE_ZNODE_PARENT" value="/hbase"/>
+    <parameters xmi:id="_3DfpftteEeeonOkq3WcGMw" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+    <parameters xmi:id="_3Dfpf9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_DB_SERVER" value="ip-172-31-21-39.eu-central-1.compute.internal"/>
+    <parameters xmi:id="_3DfpgNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_DB_TYPE" value="HBase"/>
+    <parameters xmi:id="_3DfpgdteEeeonOkq3WcGMw" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+    <parameters xmi:id="_3DfpgtteEeeonOkq3WcGMw" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="yarn/_HOST@EXAMPLE.COM"/>
+    <parameters xmi:id="_3Dfpg9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="CLOUDERA"/>
+    <parameters xmi:id="_3DfphNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_MAPRDB_VERSION" value="Cloudera_CDH5_10"/>
+    <parameters xmi:id="_3DfphdteEeeonOkq3WcGMw" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="CLOUDERA"/>
+    <parameters xmi:id="_3DfphtteEeeonOkq3WcGMw" key="CONN_PARA_KEY_USE_KRB" value="false"/>
+    <parameters xmi:id="_3Dfph9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="CLOUDERA"/>
+    <parameters xmi:id="_3DfpiNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+    <parameters xmi:id="_3DfpidteEeeonOkq3WcGMw" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@EXAMPLE.COM"/>
+    <parameters xmi:id="_3DfpitteEeeonOkq3WcGMw" key="CONN_PARA_KEY_DB_PRODUCT" value="HBASE"/>
+    <parameters xmi:id="_3Dfpi9teEeeonOkq3WcGMw" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+    <parameters xmi:id="_3DfpjNteEeeonOkq3WcGMw" key="CONN_PARA_KEY_HBASE_SET_ZNODE_PARENT" value="true"/>
+    <parameters xmi:id="_3DfpjdteEeeonOkq3WcGMw" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_3DfpjtteEeeonOkq3WcGMw" name="HBase" dataManager="_3DfpcNteEeeonOkq3WcGMw"/>
+</xmi:XMI>
