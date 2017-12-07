@@ -66,6 +66,8 @@
       <relatedItems xmi:id="_sShhnNtbEeeHest-_aekkw" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_sShhndtbEeeHest-_aekkw" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_sShhnttbEeeHest-_aekkw" id="_HmNWANssEeeHest-_aekkw - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_GvzYANtkEee8e7cyoLyucQ" id="_pAh6cNtdEeeonOkq3WcGMw" version="Latest" type="property"/>
+      <relatedItems xmi:id="_GvzYAdtkEee8e7cyoLyucQ" id="_3DV4cNteEeeonOkq3WcGMw" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_XhMD0NtfEeeonOkq3WcGMw">
       <baseItem xmi:id="_XhMD0dtfEeeonOkq3WcGMw" id="_La8hANsuEeeHest-_aekkw" version="0.1" type="job"/>
