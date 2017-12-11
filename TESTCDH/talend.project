@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_wU4E4dsoEeeHest-_aekkw" label="testcdh" description="" language="java" technicalLabel="TESTCDH" creationDate="2017-12-07T09:24:16.966+0100" author="_wU4E4tsoEeeHest-_aekkw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/talend-cdh511.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_wU4E4dsoEeeHest-_aekkw" label="testcdh" description="" language="java" technicalLabel="TESTCDH" creationDate="2017-12-07T08:24:16.966+0000" author="_wU4E4tsoEeeHest-_aekkw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/talend-cdh511.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_wYFJ4NsoEeeHest-_aekkw" label="development" code="DEV"/>
     <technicalStatus xmi:id="_wYFJ4dsoEeeHest-_aekkw" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_wYFJ4tsoEeeHest-_aekkw" label="production" code="PROD"/>
@@ -490,4 +490,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_wU4E4tsoEeeHest-_aekkw" login="ben@company.com" firstName="ben" lastName="bar" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_wYG_ENsoEeeHest-_aekkw" login="bbarranco@talend.com" firstName="Benoit" lastName="Barranco" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_JW92AN5uEeeBv_Kprq6-oA" login="mgainhao@talend.com" firstName="Mike" lastName="Gainhao" type="DI" additionnalData="{}"/>
 </xmi:XMI>
